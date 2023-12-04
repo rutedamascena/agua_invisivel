@@ -6,7 +6,7 @@ Projeto final da disciplina **Análise Exploratória de Dados II**, ministrada p
 
 - **Pegada hídrica:** [Water to Food](https://www.watertofood.org/), da Politécnica de Turim (Itália).
 
-- **Produção agrícola vegetal:** Produção Agrícola Municipal, do IBGE, com foco nos dados da produção agrícola vegetal de todos os municípios do Brasil em 2022.
+- **Produção agrícola vegetal:** [Produção Agrícola Municipal](https://sidra.ibge.gov.br/tabela/5457), do IBGE, com foco nos dados da produção agrícola vegetal de todos os municípios do Brasil em 2022.
 
 ## **FERRAMENTA:**
 
