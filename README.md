@@ -1,16 +1,14 @@
-**ÁGUA INVISIVEL**
+# **ÁGUA INVISIVEL** (<small>[leia aqui](https://aguainvisivel.fehla.xyz/)</small>)
 
-Projeto final da disciplina Análise Exploratória de Dados, ministrada pelo Profº Me. André Felipe de Moraes, no Master em Jornalismo de Dados, Automação e Storytelling, do Insper. As análises foram desenvolvidas a partir dos cruzamentos dos valores de pegada hídrica e da produção agrícola vegetal de todos os municípios do Brasil em 2022.
+Projeto final da disciplina **Análise Exploratória de Dados II**, ministrada pelo Profº Me. André Felipe de Moraes, no Master em Jornalismo de Dados, Automação e Storytelling, do Insper. As análises foram desenvolvidas a partir dos cruzamentos dos valores de pegada hídrica e da produção agrícola vegetal de todos os municípios do Brasil em 2022.
 
-**BASE DE DADOS:**
+## **BASE DE DADOS:**
 
-*Pegada hídrica:*
-Water to Food, da Politécnica de Turim (Itália).
+- **Pegada hídrica:** [Water to Food](https://www.watertofood.org/), da Politécnica de Turim (Itália).
 
-*Produção agrícola vegetal:*
-Produção Agrícola Municipal, do IBGE, com foco nos dados da produção agrícola vegetal de todos os municípios do Brasil em 2022.
+- **Produção agrícola vegetal:** Produção Agrícola Municipal, do IBGE, com foco nos dados da produção agrícola vegetal de todos os municípios do Brasil em 2022.
 
-**FERRAMENTA:**
+## **FERRAMENTA:**
 
 Para a manipulação das bases de dados mencionadas, foi utilizada a linguagem Python, através da plataforma Google Colab.
 
