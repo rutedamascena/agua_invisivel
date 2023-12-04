@@ -33,4 +33,4 @@ Nicole Lacerda ()
 
 Paulo Fehlauer ()
 
-Rute Damascena ()
+Rute Damascena (rutessd@al.insper.edu.br)
