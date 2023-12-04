@@ -1,6 +1,6 @@
 # **ÁGUA INVISIVEL** (<small>[leia aqui](https://aguainvisivel.fehla.xyz/)</small>)
 
-Projeto final da disciplina **Análise Exploratória de Dados II**, ministrada pelo Profº Me. André Felipe de Moraes, no Master em Jornalismo de Dados, Automação e Storytelling, do Insper. As análises foram desenvolvidas a partir dos cruzamentos dos valores de pegada hídrica e da produção agrícola vegetal de todos os municípios do Brasil em 2022.
+Projeto final da disciplina **Análise Exploratória de Dados II**, ministrada pelo Profº André Felipe de Moraes, no Master em Jornalismo de Dados, Automação e Storytelling, do Insper. As análises foram desenvolvidas a partir dos cruzamentos dos valores de pegada hídrica e da produção agrícola vegetal de todos os municípios do Brasil em 2022.
 
 ## **BASE DE DADOS:**
 
