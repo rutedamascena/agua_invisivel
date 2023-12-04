@@ -16,13 +16,13 @@ Para a manipulação das bases de dados mencionadas, foi utilizada a linguagem P
 
 **BIBLIOTECA UTILIZADAS:**
 
-Pandas
+*Pandas*
 
-Missingno
+*Missingno*
 
-Altair
+*Altair*
 
-Os
+*Os*
 
 
 **Para mais informações, entre em contato com a equipe:**
